@@ -50,7 +50,7 @@ sudo apt install steghide -y
 ```
 - **Embed data**
 ```
-steghide embed -cf /home/kali/Documents/images.jpeg -ef /home/kali/Documents/file.txt
+steghide embed -cf /home/kali/Documents/images.jpeg -ef /home/kali/Documents/message.txt
 ```
 ![alt text](<Screenshot 2025-04-22 084313.png>)
 - **Extract hidden data:**
